@@ -1,0 +1,71 @@
+/*MY CSS*/
+.Header{
+    height: 60px;
+    background-color: #282c34;
+    align-self: center;
+    height: 100%;
+    padding-bottom: 10px;
+
+  }
+    .LoadRow .btn{
+      background-color: #282c34;
+      color: white;
+  }
+  .Rendering{
+    justify-content: center;
+
+  }
+  .Header h2{
+      align-self: center;
+    color: white;
+    font-size: 20px;
+  }
+  .SearchForm{
+      padding-top: 10px;
+  }
+  .Header div{
+    align-self: center;
+
+  }
+  .SearchButton{
+      cursor: pointer;
+      position: absolute;
+      top:25px;
+      right: 20px;
+  }
+  .CardCol .card{
+      width: 300px;
+      margin:10px;
+      box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+
+  }
+  .card img{
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    align-self: center;
+  }
+  .CardUser{
+    display: block;
+  }
+  img{
+    margin-top: 20px;
+
+  }
+  .card-title{
+      text-align: center;
+  }
+
+  .CardCol{
+    display: contents;
+  }
+  .LoadRow{
+      margin:20px;
+      text-align: center;
+  }
+  .CardCol .yellow{
+      background-color: yellow;
+  }
+  .DropDown{
+     
+  }
