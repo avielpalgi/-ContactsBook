@@ -1,0 +1,16 @@
+.DropDownClass{
+  
+}
+.rdn{
+    min-width: 150px;
+    text-align: left;
+}
+.rdn-control{
+    height: 48px;
+    border-radius: 4px;
+}
+
+header.MuiAppBar-colorPrimary{
+    background-color: #555555;
+
+}
